@@ -1,14 +1,14 @@
-## P01需求阶段
-●P01a:需要对项目需求进行分析。<br>
+## P01 Demand stage
+●P01a:Analyze project requirements.<br>
 
-●P01b:对需求阶段认知不够。<br>
-## P02版本控制阶段
-●P02a:帮助团队了解项目进展，有助于系统的开发。<br>
+●P01b:Insufficient awareness of the demand stage.<br>
+## P02 Version control phase
+●P02a:Help the team understand the progress of the project and contribute to the development of the system.<br>
 
-●P02b:该阶段发生错误，可以回退到上一版本<br>
+●P02b:If an error occurs at this stage, you can roll back to the previous version.<br>
 
-●P02c:规避项目风险。<br>
-## P03构建阶段
+●P02c:Avoid project risks.<br>
+## P03 Construction phase
 ●P03a:迭代后的版本需要对项目进行编译。<br>
 ●P03b:项目构建频率低（小于3次/周）。<br>
 ## P04代码阶段
