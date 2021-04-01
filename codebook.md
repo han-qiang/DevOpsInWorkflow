@@ -9,72 +9,72 @@
 
 ●P02c:Avoid project risks.<br>
 ## P03 Construction phase
-●P03a:迭代后的版本需要对项目进行编译。<br>
-●P03b:项目构建频率低（小于3次/周）。<br>
-## P04代码阶段
-●P04a:经常遇到技术难题。<br>
-●P04b:认为该阶段是整个过程的核心。<br>
-## P05环境阶段
-●P05a:需要有个统一的开发环境。<br>
-●P05b:生产环境和开发环境类似。<br>
-## P06部署阶段
-●P06a:监视项目运行状态。<br>
-●P06b:部署频率低。<br>
-●P06c:部署后项目可以正常运行。<br>
-## R01需求与版本控制
-●R01a:需求重要。<br>
-●R01b:版本控制重要。<br>
-●R01c:同样重要。<br>
+●P03a:The iterated version needs to compile the project.<br>
+●P03b:The project construction frequency is low (less than 3 times/week).<br>
+## P04 Code stage
+●P04a:Often encounter technical difficulties.<br>
+●P04b:Think that this stage is the core of the whole process.<br>
+## P05 Environmental stage
+●P05a:Need to have a unified development environment.<br>
+●P05b:The production environment is similar to the development environment.<br>
+## P06 Deployment phase
+●P06a:Monitor the running status of the project.<br>
+●P06b:Low deployment frequency.<br>
+●P06c:The project can run normally after deployment.<br>
+## R01 Requirements and version control
+●R01a:Demand is important.<br>
+●R01b:Version control is important.<br>
+●R01c:of equal importance.<br>
 ## R02需求与构建
 ●R02a:需求重要。<br>
 ●R02b:构建重要。<br>
-●R02c:同样重要。<br>
+●R02c:of equal importance.<br>
 
 ## R03需求与代码
 ●R03a:需求重要。<br>
 ●R03b:代码重要。<br>
-●R03c:同样重要。<br>
+●R03c:of equal importance.<br>
 ## R04需求与环境
 ●R04a:需求重要。<br>
 ●R04b:环境重要。<br>
-●R04c:同样重要。<br>
+●R04c:of equal importance.<br>
 ## R05需求与部署
 ●R05a:需求重要。<br>
 ●R05b:部署重要。<br>
-●R05c:同样重要。<br>
+●R05c:of equal importance.<br>
 ## R06版本控制与构建
 ●R06a:版本控制重要。<br>
 ●R06b:构建重要。<br>
-●R06c:同样重要。<br>
+●R06c:of equal importance.<br>
 ## R07版本控制与代码
 ●R07a:版本控制重要。<br>
 ●R07b:代码重要。<br>
-●R07c:同样重要。<br>
+●R07c:of equal importance.<br>
 ## R08版本控制与环境
 ●R08a:版本控制重要。<br>
 ●R08b:环境重要。<br>
-●R08c:同样重要。<br>
+●R08c:of equal importance.<br>
 ## R09版本控制与部署
 ●R09a:版本控制重要。<br>
 ●R09b:部署重要。<br>
-●R09c:同样重要。<br>
+●R09c:of equal importance.<br>
 
 ## R10构建与代码
 ●R10a:构建重要。<br>
 ●R10b:代码重要。<br>
-●R10c:同样重要。<br>
+●R10c:of equal importance.<br>
 ## R11构建与环境
 ●R11a:构建重要。<br>
 ●R11b:环境重要。<br>
-●R11c:同样重要。<br>
+●R11c:of equal importance.<br>
 ## R12构建与部署
 ●R12a:构建重要。<br>
 ●R12b:部署重要。<br>
-●R12c:同样重要。<br>
+●R12c:of equal importance.<br>
 ## R13代码与环境
 ●R13a:代码重要。<br>
 ●R13b:环境重要。<br>
-●R13c:同样重要。<br>
+●R13c:of equal importance.<br>
 ## R14代码与部署
 ●R14a:代码重要。<br>
 ●R14b:部署重要。<br>
