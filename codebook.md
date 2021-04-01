@@ -25,61 +25,61 @@
 ●R01a:Demand is important.<br>
 ●R01b:Version control is important.<br>
 ●R01c:of equal importance.<br>
-## R02需求与构建
-●R02a:需求重要。<br>
-●R02b:构建重要。<br>
+## R02 Requirements and construction
+●R02a:Demand is important.<br>
+●R02b:Construction is important.<br>
 ●R02c:of equal importance.<br>
 
-## R03需求与代码
-●R03a:需求重要。<br>
-●R03b:代码重要。<br>
+## R03 Requirements and codes
+●R03a:Demand is important.<br>
+●R03b:The code is important.<br>
 ●R03c:of equal importance.<br>
-## R04需求与环境
-●R04a:需求重要。<br>
-●R04b:环境重要。<br>
+## R04 Demand and environment
+●R04a:Demand is important.<br>
+●R04b:The environment is important.<br>
 ●R04c:of equal importance.<br>
-## R05需求与部署
-●R05a:需求重要。<br>
-●R05b:部署重要。<br>
+## R05 Requirements and deployment
+●R05a:Demand is important.<br>
+●R05b:Deployment is important.<br>
 ●R05c:of equal importance.<br>
-## R06版本控制与构建
-●R06a:版本控制重要。<br>
-●R06b:构建重要。<br>
+## R06 Version control and build
+●R06a:Version control is important.<br>
+●R06b:Construction is important.<br>
 ●R06c:of equal importance.<br>
-## R07版本控制与代码
-●R07a:版本控制重要。<br>
-●R07b:代码重要。<br>
+## R07 Version control and code
+●R07a:Version control is important.<br>
+●R07b:The code is important.<br>
 ●R07c:of equal importance.<br>
-## R08版本控制与环境
-●R08a:版本控制重要。<br>
-●R08b:环境重要。<br>
+## R08 Version control and environment
+●R08a:Version control is important.<br>
+●R08b:The environment is important.<br>
 ●R08c:of equal importance.<br>
-## R09版本控制与部署
-●R09a:版本控制重要。<br>
-●R09b:部署重要。<br>
+## R09 Version control and deployment
+●R09a:Version control is important.<br>
+●R09b:Deployment is important.<br>
 ●R09c:of equal importance.<br>
 
-## R10构建与代码
-●R10a:构建重要。<br>
-●R10b:代码重要。<br>
+## R10 Build and code
+●R10a:Construction is important.<br>
+●R10b:The code is important.<br>
 ●R10c:of equal importance.<br>
-## R11构建与环境
-●R11a:构建重要。<br>
-●R11b:环境重要。<br>
+## R11 Build and environment
+●R11a:Construction is important.<br>
+●R11b:The environment is important.<br>
 ●R11c:of equal importance.<br>
-## R12构建与部署
-●R12a:构建重要。<br>
-●R12b:部署重要。<br>
+## R12 Build and deploy
+●R12a:Construction is important.<<br>
+●R12b:Deployment is important.<br>
 ●R12c:of equal importance.<br>
-## R13代码与环境
-●R13a:代码重要。<br>
-●R13b:环境重要。<br>
+## R13 Code and environment
+●R13a:The code is important.<br>
+●R13b:The environment is important.<br>
 ●R13c:of equal importance.<br>
-## R14代码与部署
-●R14a:代码重要。<br>
-●R14b:部署重要。<br>
-●R14c:同样重要。<br>
-## R15环境与部署
-●R15a:环境重要。<br>
-●R15b:部署重要。<br>
-●R15c:同样重要。<br>
+## R14 Code and deployment
+●R14a:The code is important.<br>
+●R14b:Deployment is important.<br>
+●R14c:of equal importance.<br>
+## R15 Environment and deployment
+●R15a:The environment is important.<br>
+●R15b:Deployment is important.<br>
+●R15c:of equal importance.<br>
