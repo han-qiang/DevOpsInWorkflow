@@ -1,19 +1,14 @@
 ## P01 Demand stage
 ●P01a:Analyze project requirements.<br>
-
 ●P01b:Insufficient awareness of the demand stage.<br>
 ## P02 Version control phase
 ●P02a:Help the team understand the progress of the project and contribute to the development of the system.<br>
-
 ●P02b:If an error occurs at this stage, you can roll back to the previous version.<br>
-
 ●P02c:Avoid project risks.<br>
 ●P02d:Project version control iteration.<br>
-
 ## P03 Construction phase
 ●P03a:The iterated version needs to compile the project.<br>
 ●P03b:The project construction frequency is low (less than 3 times/week).<br>
-
 ●P03c:Build the project.<br>
 ## P04 Code stage
 ●P04a:Often encounter technical difficulties.<br>
