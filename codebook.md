@@ -1,25 +1,25 @@
-## P01 Demand stage
+## P01 DEMAND PHASE
 ●P01a:Analyze project requirements.<br>
 ●P01b:Insufficient awareness of the demand stage.<br>
-## P02 Version control phase
+## P02 VERSION CONTROL PHASE
 ●P02a:Help the team understand the progress of the project and contribute to the development of the system.<br>
 ●P02b:If an error occurs at this stage, you can roll back to the previous version.<br>
 ●P02c:Avoid project risks.<br>
 ●P02d:Project version control iteration.<br>
-## P03 Construction phase
+## P03 CONSTRUCTION PHASE
 ●P03a:The iterated version needs to compile the project.<br>
 ●P03b:The project construction frequency is low (less than 3 times/week).<br>
 ●P03c:Build the project.<br>
-## P04 Code stage
+## P04 CODE PHASE
 ●P04a:Often encounter technical difficulties.<br>
 ●P04b:Think that this stage is the core of the whole process.<br>
 ●P04c:The main process of the code phase.<br>
 ●P04d:Develop the project code.<br>
-## P05 Environmental stage
+## P05 ENVIROMENTAL PHASE
 ●P05a:Need to have a unified development environment.<br>
 ●P05b:The production environment is similar to the development environment.<br>
 ●P05c:The project can operate normally at the link stage.<br>
-## P06 Deployment phase
+## P06 DEPLOYMENT PHASE
 ●P06a:Monitor the running status of the project.<br>
 ●P06b:Low deployment frequency.<br>
 ●P06c:The project can run normally after deployment.<br>
