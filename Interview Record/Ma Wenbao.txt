@@ -1,0 +1,219 @@
+﻿A: What is the name of the participant?
+
+J: Ma Wenbao
+
+A: What is the position?
+
+J: Undergraduate
+
+A: So what is your DevOps experience?
+
+J: 1 year
+
+A: What is the name of your department?
+
+J: School of Computer Science and Engineering
+
+A: Then in what year did you join this department?
+
+J: September 2017
+
+A: So why did you make you contact this DevOps?
+
+J: Maybe it's linked to my project development
+
+A: What is your understanding of DevOps?
+
+J: The system development process may be smoother, which will help the development of the project. The user's needs are actually quite large. Let us discuss and improve something.
+
+A: Do you support the culture and practice?
+
+J: Very supportive
+
+A: Is the current team culture conducive to DevOps implementation?
+
+J: I think that every part of his development process in this system, I think it is very beneficial to the implementation of this devops, that is to say from his needs, or a certain link in his development process, I think they are all It can be.
+
+A: What is the size of your team?
+
+J: About five people
+
+A: What are you mainly responsible for in that team?
+
+J: Focus on testing
+
+A: Then do you know whether they have iterated during the development process?
+
+J: Yes
+
+A: How long does the project iteration take?
+
+J: About a week or so
+
+A: What development method does the team use?
+
+J: Object-oriented
+
+A: What kind of software do we develop?
+
+J: Information Management System
+
+A: Has your team been exposed to some learning training for this project development?
+
+J: Yes
+
+A: How long does the team discuss?
+
+J: One iteration must be discussed once
+
+A: What help is the discussion between teams?
+
+J: Actually, it's a great help. After studying for a period of time, there may be some shortcomings or shortcomings in each part, and then you can find out through these discussions, which means to avoid some detours in the later period.
+
+A: Are there any experts to help and clear up some of the problems encountered in the project development?
+
+J: Some of them are instructors. These postgraduate seniors and elder sisters are all helpful.
+
+A: Which stage in the devops or software life cycle do you think has the greatest impact on the project?
+
+J: I think it should be a demand analysis, because I think this is a demand analysis. If it is not done well, the software or system developed later has not reached the user’s function as far as the user is concerned. That kind of expectation, so the significance of this system development, or its effect, is not very obvious, so it is equivalent to an unsuccessful development.
+
+A: Then if you exclude requirements analysis, which stage do you feel is more important?
+
+J: That's the environment
+
+A: What problems did you encounter in participating in the development of this project?
+
+J: In the process of version iteration, there are some problems, and there will be more or less problems in the process of code implementation.
+
+A: Have you tested this needs analysis?
+
+J: Yes
+
+A: At this stage of version control, do you think it is conducive to the development of this system?
+
+J: It is still beneficial. He will find some deficiencies and defects in the system every iteration, and then add them in time, and then it will also help the development of the system to a certain extent, which is to reflect or carry out the next step of planning and design.
+
+A; What problems did you encounter during the BPMN modeling process of the requirement j stage?
+
+J: When I first came into contact with this BPMN, it was probably because I was familiar with some of its processes, and I might not be very familiar with the controls. Then after several iterations of learning, the problem that slowly emerged is that there is a more prominent problem, that is, the gateway is not used accurately every time.
+
+A: Is there a unified working environment for team development?
+
+J: Yes
+
+A: Then have you monitored the running status of your software?
+
+J: Yes. Sometimes when the software is running, there may be errors, or it may not meet your expectations, etc., you will take a look at its running status, and then find out the problem in time.
+
+A: So when the problem is found, after the problem is found in the team and shared, then this problem will be prevented?
+
+J: Can prevent it from happening again
+
+A: How often do you have a discussion between teams?
+
+J: About a week or so.
+
+A: So which is helpful to this improvement project?
+
+J: It is helpful in the process of discussion, that is, we can bring up some of the problems we have encountered, and then after discussion, we can solve some problems more or less.
+
+A: In the deployment environment and development environment, can your project run normally?
+
+J: Basically able to operate normally
+
+A: These two environments, development environment and production environment, are they similar?
+
+J: similar
+
+A: What is your continuous integration of this project, continuous deployment?
+
+j: don't know much
+
+A: How often does the project build?
+
+J: Basically about once a week
+
+A: How often do you deploy?
+
+J: Basically about once a week
+
+A: How many times has this BPM version iterated so far?
+
+J: 7 times
+
+A; Because this BPMN has changed. How many times has the project been built?
+
+J; about three or four times
+
+A: How many times did BPMN change just because of requirements, and then change the code phase?
+
+J: less than 3 times
+
+A: Because of changes in demand, the environment has also changed?
+
+J: No no
+
+A: How many times did BPMN fail to deploy normally?
+
+J: Haven't encountered it yet
+
+A: Do you think you are in these stages. Which one do you think is more important?
+
+J: Demand
+
+A: Requirements and construction?
+
+J: Demand
+
+A: Requirements and codes?
+
+J: Demand
+
+A: Needs and environment?
+
+J: Demand
+
+A: Requirements and deployment?
+
+J: Demand
+
+A: What do you think of version control and build?
+
+J: build
+
+A: Version control and code?
+
+J: code
+
+A: Version control and environment?
+
+J: Environmental stage
+
+A: Version control and deployment phase?
+
+J: equally important
+
+A: Which one do you think is more important between the construction phase and the code phase?
+
+J: build
+
+A: Build and environment?
+
+J: build
+
+A: Build and deploy?
+
+J: build
+
+A: Then which one do you think is more important between the code phase and the environment phase?
+
+J: Environment
+
+A: Code and deployment phase?
+
+J: code
+
+A: What do you think of the environment and deployment stage?
+
+J: Environmental stage.

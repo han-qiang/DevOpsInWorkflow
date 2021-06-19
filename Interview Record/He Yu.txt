@@ -1,0 +1,211 @@
+﻿A: What is the name of the participant?
+
+I: He Yu
+
+A: What is the position?
+
+I: Graduate students.
+
+A: So what is your DevOps experience?
+
+I: 1 year
+
+A: What is the name of your department?
+
+I: Graduate School
+
+A: Then in what year did you join this department?
+
+I: 18 years
+
+A: So why did you make you contact this DevOps?
+
+I: In the discipline of software engineering, it involves the testing of software development and software, and then I came into contact with devops in the process of development and testing.
+
+A: What help does your team use this devops in development?
+
+I: devops is equivalent to the integration of development, operation and maintenance. It is equivalent to a cyclical process, which is a process of version iteration. In the process of cyclical version iteration, from the developer's point of view, he develops according to requirements, and there are differences In the development stage of the software, it involves different versions, and then his help is to develop better software and develop a better system, so that the quality of the system and software can be continuously improved, and it can better meet the software requirements specifications. The needs of the user are more able to meet the needs of users.
+
+A: So do you support the culture and practice of devops?
+
+I: I support the practice of devops, but I don’t know much about the culture of devops, so I don’t comment.
+
+A: Can you tell us whether your current team's culture is conducive to devops?
+
+I: A small team of four of us, there are developers, supervision companies, add personnel, error personnel, and testers. The small team of these four people is in the process of testing, although in devops it is integrated development, operation and maintenance. The test is clearly presented, but the test is obviously also contained in devops, so the current culture of our entire team is conducive to devops, and is conducive to version iteration.
+
+A: So what is the current size of your team?
+
+I: The scale is four people.
+
+A: What is your role in this interview?
+
+I: My role is a tester.
+
+A: Have you experienced iterations during the project development process?
+
+I: The project has experienced iterations during the development process. The reason for the iterations is that the software requirements specifications have been updated. It is the iteration of the developed system that is iterated according to the iteration of the software requirements.
+
+A: Well, how long does each iteration take?
+
+I: The time required for each reception is about half a month
+
+A: What development method does your team use?
+
+I: The development method used is agile development method, object-oriented development method
+
+A: What kind of software are you developing?
+
+I: A workflow verification system is developed. This workflow verification system is used to verify the accuracy of the rsa, timing attack program process
+
+A: So has your team received some learning and training in project development?
+
+I: Have learned
+
+A: How often does your team have a team discussion?
+
+I: Our team discusses more frequently. If there is less, it will be discussed every half a day. If there are more, it may be discussed every two or three hours.
+
+A: So how does this discussion help to improve the project?
+
+I: Because of the four of us, the roles of the four people in this team are different, and the roles are different, which represents his responsibility, and its role is different. We start from the perspective of the respective roles of the four people, and then we Associate everyone's role with devops and see how our role and devops can be better connected. In the final analysis, it is correct. The iteration of the project is helpful.
+
+A: During the development process, is there any expert help and guidance to help guide and clean up some of the problems encountered in the process of this project?
+
+I: With the help of experts
+
+A: Which stage in the devops or software life cycle do you think is more important to the project?
+
+I: I think, if it is to pick the biggest one, it is the demand stage.
+
+A: What problems have you encountered in project development?
+
+I: The first problem is that when we first determined the requirements, our opinions on the requirements were not uniform and inconsistent. Then the second problem was in the process of the development phase, that is, in the process of programming, in order to achieve the software requirements. All the requirements in the specification will inevitably make mistakes in the process of programming. Then the third problem is that in the process of version iteration, that is, in the process of devops, we may have a maintenance of the software. There will be loopholes.
+
+A: So, have you tested the needs of the project here?
+
+I: Yes, but our defect detection for requirements analysis is all done after a complete round of development and a complete round of testing to test the round of requirements that have just been experienced, that is to say for this The process version iteration process of the round of development, maintenance and testing is summarized. After the summary, it is also to prepare for the next round of development, operation and maintenance version iteration.
+
+A: So how do you think a good architecture will help the project?
+
+I: A good architecture can help the development, operation, maintenance and testing of the project,
+
+A; So does version control help the development of the system?
+
+I: Version control, I think it helps system development
+
+A: What problems have you encountered in BPMN modeling in the requirements phase?
+
+I: The first point in the BPMN modeling process is to use VP software to draw. When using VP to softwareize the BPMN diagram, first of all the identifications, such as the identification of the swim lane, such as the identification of the branch node, etc., this These may not be clear at the beginning, and then the second point is that when I figured out these signs were drawn, because I did not have a very clear business process, I did not have a complete and correct business process idea, so it was said that, Sometimes a business flowchart is drawn. When it is modeling, it repeats nesting and branching, so that the final drawing is very confusing, that is, the logic is not clear.
+
+A: Does your team have a unified working environment for development, operation, maintenance and testing of the project?
+
+I: Have a unified environment.
+
+A: Have you monitored the running status of your software?
+
+I: Monitoring
+
+A: After discovering the problem, do you share the results so as to prevent it from happening again in the process of your team?
+
+I: Share the results.
+
+A: The project is in this production environment and this development environment. Can your project run normally?
+
+I: Yes.
+
+A: Is the production environment similar to this development environment?
+
+I: Generally speaking, it is quite similar. Well, for example, our development workflow verification system uses jdk, tomcat, and Mysql.
+
+A: So do you have any knowledge about the continuous integration and continuous deployment of this project?
+
+I: I don’t know much about the concept of continuous integration. For continuous deployment, it is a javaweb project. After deploying this workflow verification system to tomcat, it will be released. Then this is deployment, and if it continues, it is based on the project. Version iteration, each iteration of a version, it needs to be deployed once,
+
+A: So how often is your project built?
+
+I: Five or six times a day
+
+A: How often does the project deploy?
+
+I: Five or six times a day
+
+A: How many versions of BPMN has iterated since the beginning of the project?
+
+I: More than three times and less than or equal to six times
+
+A; Because this BPMN has changed. How many times has the project been built?
+
+I; twice,
+
+A: How many times did BPMN change just because of requirements, and then change the code phase?
+
+I: There are many times, because in the process of developing the code, if he encounters the code test failure, or the debugging fails, he needs to modify the code. For example, if an integer variable is an int, I may I accidentally spelled imt for him, and at this time an error will be reported, then I need to modify it, um, this modification process is many times.
+
+A: Because of changes in demand, the environment has also changed?
+
+I: Yes, during the development of the project, the requirements involved the C language in the first three rounds, and then the Java language was involved in the fourth round and the fifth round, so the environment changes.
+
+A: How many times did BPMN fail to deploy normally?
+
+I: many times
+
+A: Do you think you are in these stages. Which one do you think is more important?
+
+I: Demand
+
+A: Requirements and construction?
+
+I: Demand
+
+A: Requirements and codes?
+
+I: Demand
+
+A: Needs and environment?
+
+I: Demand
+
+A: Requirements and deployment?
+
+I: Demand
+
+A: What do you think of version control and build?
+
+I: build
+
+A: Version control and code?
+
+I: code
+
+A: Version control and environment?
+
+I: Environmental stage
+
+A: Version control and deployment phase?
+
+I: deployment
+
+A: Which one do you think is more important between the construction phase and the code phase?
+
+I: This should be the code stage
+
+A: Build and environment?
+
+I: Environment.
+
+A: Build and deploy?
+
+I: build
+
+A: Then which one do you think is more important between the code phase and the environment phase?
+
+I: Environment
+
+A: Code and deployment phase?
+
+I: code
+
+A: What do you think of the environment and deployment stage?
+
+I: Environmental stage.

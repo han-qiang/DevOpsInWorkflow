@@ -1,0 +1,212 @@
+﻿file: March 23 at 9:13 PM Mao Zijian.mp3
+***********************************result************** ************************
+A: What is the name of the participant?
+
+H: Mao Zijian
+
+A: What is the position?
+
+H: Graduate students.
+
+A: So what is your DevOps experience?
+
+H: 1 year
+
+A: What is the name of your department?
+
+H: Graduate School
+
+A: Then in what year did you join this department?
+
+H: September 2019
+
+A: So why did you make you contact this DevOps?
+
+H: The team is guided by a teacher, this is needed for development
+
+A: How does DevOps development help in your team?
+
+H: That is helpful in requirements analysis and modeling. RSA testing is the main method. Requirements analysis needs to go through rounds of iterative analysis to remove unreasonable places. After the discussion on the development side, it is necessary to make continuous iterations of modification and improvement. And in the case of the ABV method, it is found that the decomposition and reorganization verification is a devops process
+
+A: Do you support the culture and practice of devops?
+
+H: Support
+
+A: Can you tell us whether the culture of your current team is conducive to devops?
+
+H: There is the guidance of the teacher, and the team is doing this, so the culture is there, which helps to further devops
+
+A: The size of the team
+
+H: 4
+
+A: What are your responsibilities in this team?
+
+H: I am equivalent to a founder who supervises a company similar to that of supervising a company, which is equivalent to the entire testing process of managers
+
+A: Does the team need to iterate during the development process?
+
+H: Need
+
+A: How long is the iteration?
+
+H: About two weeks
+
+A: What kind of development method does the team use?
+
+H: Object-oriented
+
+A: What kind of software are you developing
+
+H: In the beginning, it was a process-oriented C language. At the current stage, an RSA timing attack verification system is developed using Java object-oriented.
+
+A: Has your team received some learning and training in the development of this project?
+
+H: Learned
+
+A: How often do you have discussions in the team?
+
+H: Now there is a small discussion almost every day, because it is in the process of testing. But according to the past, it will probably be two days
+
+A: Is the discussion helpful to the improvement of this project?
+
+H: Yes, every round of iteration will find a lot of errors. Through the addition of human errors, more inherent errors will be found. Then the prototype software developed is to make up for some of its defects and increase its reliability.
+
+A: So do you have experts to help guide and clean up some of the problems encountered in project development
+
+H: Hmm, the teacher is doing an overall adjustment
+
+A: Which stage in the devops or software life cycle do you think has a greater impact on this project?
+
+H: Based on the current RSA test, I think it is still very important in the initial requirements analysis stage. If the requirements are not done well, all subsequent implementations will be affected to a certain extent.
+
+A: What problems have you encountered during project development?
+
+H: Some errors in the iterative process of project development are not easy to solve
+
+A: You are in the requirement analysis stage during the development of this project. Have you tested this requirement?
+
+H: When the requirements analyst finishes writing the software requirements of the requirements specifications, the specifications will be passed to the group, and then the group will meet to discuss whether it is reasonable. There will also be teachers who will check the overall to determine whether he can Develop and develop in accordance with the requirements specification,
+
+A; How do you think a good architecture will help this project?
+
+H: A good architecture will make the code more modular, that is, the whole system has a clear idea, so that errors will be reduced as much as possible, so it is still very important and has a great impact.
+A: What do you know about this version control?
+
+H: Each version adds some requirements and functions to the previous version in the next version, and then through the iterative process of testing, the developed system will be perfected, which will help the development of the system.
+
+A: What problems did you have in the BPM modeling process of this requirement phase?
+
+H: Because the requirements in the demand stage are not so easy to grasp and control well, they just can't be established all at once, so BPMN has to go through many considerations. BPMN will continue to iterate. For example some. Some vectors of nodes may have some errors.
+
+A: Is there a unified working environment in the development of this project?
+
+H: Yes, it is currently at 23 workstations, which has a unified environment in which to develop projects
+
+A: Have you monitored a running status of your own software?
+
+H: During the test, the tester found a bug,
+
+A: So after you find the problem in this team and share it, will it help prevent this problem again next time?
+
+H: Yes, when the tester finds out the problem and sends it to the test group, and then adds the error person to check it, he will send out some modified code of the error, and then let the developer and the tester check that there is no problem. Will proceed to the next to continue the test.
+
+A: In the production environment and development environment, can this project proceed normally?
+
+H: It can be normal
+
+A: Is the production environment and development environment similar?
+
+H: similar
+
+A: What do you know about the continuous integration and continuous deployment of this project?
+
+H: I don’t know much about continuous integration, what it means, and how about deployment.
+
+A: How often is the project built?
+
+H: About three hours and four hours
+
+A: How often do you deploy?
+
+H: About two weeks
+
+A: How many versions of your BPMN have been iterated since the beginning of this project?
+
+H: Five times
+
+A; Because this BPMN has changed. How many times has the project been built?
+
+H; five times
+
+A: How many times did BPMN change just because of requirements, and then change the code phase?
+
+H: Five times
+
+A: Because of changes in demand, the environment has also changed?
+
+H: Yes
+
+A: How many times did BPMN fail to deploy normally?
+
+H: Haven't encountered it yet
+
+A: Do you think you are in these stages. Which one do you think is more important?
+
+H: Demand
+
+A: Requirements and construction?
+
+H: Demand
+
+A: Requirements and codes?
+
+H: Demand
+
+A: Needs and environment?
+
+H: Demand
+
+A: Requirements and deployment?
+
+H: Demand
+
+A: What do you think of version control and build?
+
+H: build
+
+A: Version control and code?
+
+H: code
+
+A: Version control and environment?
+
+H: Environmental stage
+
+A: Version control and deployment phase?
+
+H: deployment
+
+A: Which one do you think is more important between the construction phase and the code phase?
+
+H: equally important
+
+A: Build and environment?
+
+H: Environment.
+
+A: Build and deploy?
+
+H: build
+
+A: Then which one do you think is more important between the code phase and the environment phase?
+
+H: code
+
+A: Code and deployment phase?
+
+H: equally important
+
+A: What do you think of the environment and deployment stage?
+
+H: Environmental stage.

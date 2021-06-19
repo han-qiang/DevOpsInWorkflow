@@ -1,0 +1,223 @@
+﻿A: What is the name of the participant?
+
+B: Tian Mengjiang
+
+A: What is the position?
+
+B: Undergraduate.
+
+A: So what is your DevOps experience?
+
+B: It's been half a year
+
+A: What is the name of your department?
+
+B: School of Computer Science, School of Computer Science.
+
+A: Then in what year did you join this department?
+
+B: 17 years
+
+A: So why did you make you contact this DevOps?
+
+B: Because this is when it needs to be developed.
+
+A: So how does the DevOps used in your team's development help you?
+
+B: It may be more standardized, it will not be particularly random, and then everyone has a standard.
+
+A: Do you support or understand DevOps culture and practice?
+
+B: Well, I support it, but I don't know it very well.
+
+A: Can you tell us whether your current team's culture is conducive to the implementation of this devops?
+
+B: I think there is, because now, after all, many teams are more standard to make requirements for some coding habits, instead of saying that every programmer just writes his own things as he wants. because. Now it is also to prevent someone who takes over after a programmer quits who cannot understand the code and cannot understand the logic. Therefore, there are still requirements for many coding formats and coding styles, and there will be a rough limit. Is a rough standard
+
+A: What is the size of your current team?
+
+B: Five people
+
+A: What kind of role is your role player in this team?
+
+B: Just as a developer in the development of this project
+
+A: Have you iterated during the development process?
+
+B: Yes
+
+A: How long does each iteration take?
+
+B: Every iteration of each iteration depends on the progress of the project. If you are in a hurry, there may be more iterations, maybe once or twice a day, once in the morning, once in the afternoon, and then it may be more leisurely. It’s only two or three days before going there. Just according to this change in demand.
+
+A: What kind of development method is the team currently using?
+
+B: Object-oriented development method
+
+A: What kind of software is your team currently developing?
+
+B: It's a management system.
+
+A: Has your team received some learning or training in the development of this project?
+
+B: Have been in contact. We have studied a course of system analysis and design before, and then probably also talked about a process from development to use of a project.
+
+A: How often does your team have a team discussion?
+
+B: Hey, there is no specific time for this.
+
+A: Is the discussion helpful to the improvement of the project?
+
+B: Yes, it will be exposed during the discussion. You can negotiate with some of the problems that you feel when you are developing, and then follow up, so that some of the processes may be more cumbersome to become more cumbersome. For a more concise purpose,
+
+A: Are there any experts to help guide clearing up some of the problems encountered in project development?
+
+B: No.
+
+A: What stages do you think are in this software life cycle? Then you talk about your understanding of these stages?
+
+B: Market research, then demand analysis, market research, I think so, he is investigating this is what I will do next, whether there is such a demand in the market now, and then this thing will be produced in the future What kind of market, then do the research first, after the research, the data or some things returned from the research are used for analysis, which is based on the data I surveyed, and I will do the analysis to see what kind of needs will be made. Then after the requirements analysis is completed, it is to do development, and then market research and requirements analysis. In fact, in the entire development process, his time is still based on a standard process, which is the first two stages, and he will account for the first two stages. A large proportion of the time, in fact, if it is developed, it actually accounts for less than 1/3 of the time.
+
+A: Which stage do you think has a greater impact on the project?
+
+B: I think it is. In fact, it is a more coherent system, but I think it is more important in requirements analysis. This is actually a step-by-step process. If the research is done well, the needs analysis should be done properly, and then when doing development, there will be evidence to do the development, and there will be a feeling of prescribing the right medicine. . I think they are all more important,
+
+A: What problems have you encountered in the development?
+
+B: Yes. After all, when developing and developing, it doesn’t mean that all the technologies are understood, and then it really feels very difficult at the beginning, and it feels like it’s not like doing a business. Very familiar, and then you will have to learn or check information again. At the beginning, it is really difficult at the beginning of everything. Later on, it feels like you want to do a business, as long as you want to get basically After that, you can basically change whatever you want, but at the beginning, you have a good idea, but you just can't do it.
+
+A: You are in the requirement analysis stage, have you checked whether your requirement is reasonable, or whether there are defects?
+
+B: I didn't say to deliberately check, but when I slowly develop, I will feel that this thing seems a bit complicated, and then I will iterate to change it.
+
+A: So what do you know about architecture?
+
+B: I don't know much,
+
+A: So what do you know about version control?
+
+B: It means that you generate a version every time you iterate. This version is helpful. For example, if the development of this version of your project failed, it also helps you to roll back to the previous version and then develop again. It also helps Looking back at the previous version encountered some problems,
+
+A: Do you think this version control will help the development of this system?
+
+B: It helps. If there is a problem in the next version, you can roll back to the previous version to avoid some potential risks that may be unexpected.
+
+A: So what problems did you encounter during the BPMN modeling process in your requirements phase?
+
+B: I am not very familiar with BPMN. In fact, sometimes modeling is to do some rough descriptions. In fact, there is a big difference between the actual operation and the actual writing of the code.
+
+A: Does your team currently have a unified environment to develop this project?
+
+B: It is a unified environment.
+
+A: Have you monitored the running status of the software?
+
+B: Not yet, mainly focusing on the development of the pre-development status.
+
+A: Your team currently finds a problem and gets some shared solutions. Then it will prevent this problem from happening again?
+
+B: I usually avoid it in time
+
+A: In the production environment and development environment, can your team project run normally?
+
+B: Both can run.
+
+A: Is the production environment in your team similar to the development environment?
+
+B: similar
+
+A: What do you know about this continuous integration and continuous deployment?
+
+B: Did not understand
+
+A: How often does the project build?
+
+B: If the demand changes, just rebuild it, several times a week,
+
+A: How often does the project deploy?
+
+B: Several times a week
+
+A: From the beginning of the project to the current version of BPMN?
+
+B: Seven times,
+
+A: BPM modeling has changed, which led to the number of times the project was built?
+
+B: About two or three times
+
+A: The number of code changes caused by changes in BPMN?
+
+B: There are two, one or two times
+
+A: So in the development of the project, is there such a problem due to changes in the environment caused by changes in requirements?
+
+B: No
+
+A: How many times has your BPMN changed and failed to deploy normally?
+
+B: No
+
+A: Can you talk about the six stages, what do you know about these six stages?
+
+B: The understanding of the demand stage is that it is actually a more important pre-communication. Because only the needs are determined first, and then development is done. Version control is to ensure that it is to circumvent something that the next version can be during development. There are also some uncontrollable factors that may cause problems, and then you can go back to the previous version to avoid some risks. In fact, the build phase is a compilation, and the compilation process also includes some tests. This is a build. stage. What I understand at the code stage is the specific coding implementation. When teamwork is in the environmental phase. Probably in a unified environment, it is more important to have a unified development environment.
+
+A: Which one do you think is more important in the requirements phase or the version control phase?
+
+B: The demand stage will be more important, because in fact, when the demand is done, there are specific goals to do.
+
+A: Requirements and construction?
+
+B: Demand
+
+A: Requirements and codes?
+
+B: Still demand,
+
+A: Needs and environment?
+
+B: Demand
+
+A: Requirements and deployment?
+
+B: Demand
+
+A: What do you think of version control and build?
+
+B: version control
+
+A: Version control and code?
+
+B: version control
+
+A: Version control and environment?
+
+B: Environmental stage
+
+A: Version control and deployment phase?
+
+B: Version control.
+
+A: Which one do you think is more important between the construction phase and the code phase?
+
+B: This should be the code stage
+
+A: Build and environment?
+
+B: Environment.
+
+A: Build and deploy?
+
+B: Build.
+
+A: Then which one do you think is more important between the code phase and the environment phase?
+
+B: Environment
+
+A: Code and deployment phase?
+
+B: code
+
+A: What do you think of the environment and deployment stage?
+
+B: Environmental stage.

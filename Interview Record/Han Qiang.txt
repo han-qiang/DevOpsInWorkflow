@@ -1,0 +1,205 @@
+﻿A: What is the name of the participant?
+
+B: Han Qiang
+
+A: What is the position?
+
+B: Teacher
+
+A: So what is your DevOps experience?
+
+B: The short-term understanding experience is 1-2 years, and the long-term work has been involved in DevOps for about 15 years.
+
+A: What is the name of your department?
+
+B: Information System Research Institute
+
+A: Then in what year did you join this department?
+
+B: 2012
+
+A: So why did you make you contact this DevOps?
+
+B: If it is straightforward, the reason is still because of the national fund project. To do this workflow system, I realized that a credible workflow system is actually a process of continuous iteration in development and operation.
+
+A: So how does the DevOps used in your team's development help you?
+
+B: Contribute to the research team
+
+A: Do you support or understand DevOps culture and practice?
+
+B: Of course it is supported. In this regard, it is not only support, I think I also emphasize that my support is from the perspective of scientific research as a teacher, especially a graduate student. I emphasize the most prominent point of supporting DevOps. That is, I let my graduate students directly use DevOps to do the topic of the thesis. I think that to this level, it is the most prominent embodiment. This also brings a lot of effects, such as forcing me and graduate students to understand and understand some recent research results of DevOps in this environment.
+
+A: Can you tell us whether your current team's culture is conducive to the implementation of this devops?
+
+B: I think it’s not good, because I have limited energy all year round because of some reasons for bringing the operating system. It is difficult for me to do it. I have a core course every semester, so I didn’t take it in another semester. As for the undergraduate course of software engineering, my teaching of soft engineering is mainly reflected in five graduate students. Not reflected in undergraduates, undergraduates are teaching operating systems. So the team of my graduate students is currently lacking, obviously lacking DevOps culture, it is not conducive to the development of DevOps. The reason is also very simple. My graduate students are the same as the graduate students of other teachers. They often, we do not make any discriminatory descriptions. They are often teachers from undergraduate colleges and universities. In the past four years, they have hardly led them to do better-quality undergraduate innovation projects. Almost none. This is an ironclad fact. Furthermore, the graduate students I brought are also Like the graduate students of many other teachers, they have rarely or hardly participated in the scientific research projects of some of their teachers at the undergraduate level. At this point, my undergraduate students at Beiming University have hardly participated in my scientific research projects. I just want to say that there is a lack of culture and basic software engineering. The same graduate students have more results than other teachers. This one. I think there are many aspects, one of which is that software engineering on my side requires teamwork, and teamwork I think is basically a big challenge for our classmates. I have felt too deeply over the years. Because almost everyone comes from a family with two children at most. Eighty to ninety percent are from the only child. She didn't collaborate at the undergraduate level since she was young, and she wanted to collaborate creatively, which is too difficult for us to graduate students. But if you give a single thing to do, he can start and then he can think about it. But his learning mode is almost alone. DevOps is not needed. The awareness of the team is very important. This awareness is very important, it’s too difficult for one person
+
+A: What is the size of your current team?
+
+B: 12 ​​people
+
+A: What kind of role is your role player in this team?
+
+B: Supervisor
+
+A: Have you iterated during the development process?
+
+B: Iteration is extremely inadequate, it is too difficult to iterate
+
+A: How long does each iteration take?
+
+B: One week to two weeks
+
+A: What kind of development method is the team currently using?
+
+B: I don't think we can talk about the development method. I don't want to be positive about everything. I don't have any development methods on my team, because nothing has been developed, which is not enough to reflect what kind of development methods.
+
+A: What kind of software is your team currently developing?
+
+B: EMIS and RSA timing attack program
+
+A: Has your team received some learning or training in the development of this project?
+
+B: No
+
+A: How often does your team have a team discussion?
+
+B: Once a month, a team is together. Everyone has the opportunity to speak. This is equivalent to having a meeting once a week or two or three weeks when we were in C408.
+
+A: Is the discussion helpful to the improvement of the project?
+
+B: Everyone has some help after every time. This supervised and improved, but not too big,
+
+A: Are there any experts to help guide clearing up some of the problems encountered in project development?
+
+B: No.
+
+A: Which stages in the software life cycle do you think have a greater impact on the project?
+
+B: It's equally important. Whether development or operation and maintenance is not well done will have a huge impact on the project.
+
+A: What problems have you encountered in the development?
+
+B: There are many problems encountered in project development. The first problem is insufficient technical ability. The lack of technical capabilities is the core problem, which is the extreme lack of technical reserves. The main reason for this problem, let me add an answer. My graduate student did not follow the teacher to do high-quality college student innovation projects at the undergraduate level. The second collaboration ability is not enough.
+
+A: You are in the requirement analysis stage, have you checked whether your requirement is reasonable, or whether there are defects?
+
+B: I want to give a positive answer. We attach too much importance to demand. But it didn’t reach the test, it was just a discussion
+
+
+A: Do you think this version control will help the development of this system?
+
+B: help
+
+A: So what problems did you encounter during the BPMN modeling process in your requirements phase?
+
+B: The demand does not correspond, there is no swim lane
+
+A: Does your team currently have a unified environment to develop this project?
+
+B: It is a unified environment.
+
+A: Have you monitored the running status of the software?
+
+B: Not yet
+
+A: Your team currently finds a problem and gets some shared solutions. Then it will prevent this problem from happening again?
+
+B: Yes
+
+A: In the production environment and development environment, can your team project run normally?
+
+B:
+
+A: Is the production environment in your team similar to the development environment?
+
+B: No, not similar
+
+A: What do you know about this continuous integration and continuous deployment?
+
+B: I don't know much
+
+A: How often does the project build?
+
+B: Very low, it's hard to build for a long time
+
+A: How often does the project deploy?
+
+B: It's not about deployment, it's very low.
+
+A: From the beginning of the project to the current version of BPMN?
+
+B: more than 6 times
+
+A: BPM modeling has changed, which led to the number of times the project was built?
+
+B: more than 6 times
+
+A: The number of code changes caused by changes in BPMN?
+
+B: About 3 times
+
+A: So in the development of the project, is there such a problem due to changes in the environment caused by changes in requirements?
+
+B: No
+
+A: How many times has your BPMN changed and failed to deploy normally?
+
+B: No
+
+
+A: Requirements and construction?
+
+B: Demand
+
+A: Requirements and codes?
+
+B: Still demand,
+
+A: Needs and environment?
+
+B: equally important
+
+A: Requirements and deployment?
+
+B: Demand
+
+A: What do you think of version control and build?
+
+B: version control
+
+A: Version control and code?
+
+B: version control
+
+A: Version control and environment?
+
+B: Environmental stage
+
+A: Version control and deployment phase?
+
+B: Version control.
+
+A: Which one do you think is more important between the construction phase and the code phase?
+
+B: This should be the construction phase
+
+A: Build and environment?
+
+B: Environment.
+
+A: Build and deploy?
+
+B: Build.
+
+A: Then which one do you think is more important between the code phase and the environment phase?
+
+B: Environment
+
+A: Code and deployment phase?
+
+B: code
+
+A: What do you think of the environment and deployment stage?
+
+B: Environmental stage.

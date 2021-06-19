@@ -1,0 +1,214 @@
+﻿file: March 23, 10:02 PM Li Nan.mp3
+***********************************result************** ************************
+
+A: What is the name of the participant?
+
+F: Li Nan
+
+A: What is the position?
+
+F: Graduate students.
+
+A: So what is your DevOps experience?
+
+F: a small amount of exposure
+
+A: What is the name of your department?
+
+F: Graduate School
+
+A: Then in what year did you join this department?
+
+F: 19 years
+
+A: So why did you make you contact this DevOps?
+
+F: The team is working on this project about devops, and then I came into contact with it and felt that this topic is still very good, with development, as well as operation and maintenance.
+
+A: How will the team adopt devops in the development process to help your development process?
+
+F: It helps. Will help the team develop projects, improve software quality and reliability,
+
+A: Do you support devops culture and practice?
+
+F: Support
+
+A: Is the current team culture conducive to the implementation of devops?
+
+F: Yes
+
+A: Team size?
+
+F:4
+
+A: What role or responsibilities are you in the team?
+
+F: Add wrong people, and system analysis is reliability analysis
+
+A: Does the project development process need to be iterated?
+
+F: Yes
+
+A: So how long does the iteration take?
+
+F: Look at the situation of finding the error. If you find an error, you need to modify it once, modify it once and then continue to look for it. If you find a human error, it is best to insert the human error. It is about two weeks.
+
+A: What kind of development method does the team currently use?
+
+F: Java is object-oriented.
+
+A: So what kind of software is being developed?
+
+F: The software is the workflow verification system of RSA timing attack
+
+A: Has the team received a study or training for the development of this project?
+
+F: Accepted
+
+A: How long does the team discuss?
+
+F: We discuss it every day, which is more frequent.
+
+A: The discussion is not very helpful to the improvement of this project?
+
+F: During the discussion, the requirements will be richer, making the project more conducive to the development of developers and testing by testers, and then there is more standardization in the degree of specification, which is conducive to a team's communication and collaboration .
+
+A: Does your team have experts to help guide and clean up the problems encountered in the project development process?
+
+F: Yes
+
+A: Which stage of the devops or software life cycle do you think has a great influence on this project?
+
+F: Demand stage
+
+A: What problems did you encounter during the development of this project?
+
+F: It is the problem that is realized in the process branch
+
+A: For the requirements before the development of this project, is there a verification of this requirement?
+
+F: Yes
+
+A: So how do you think a good architecture will help the project?
+
+F: A good structure will definitely help and will improve the quality of the project
+
+A: What is your understanding of version control?
+
+F: It is definitely helpful for development, because it is updated every time it is checked and iteratively.
+
+A: So in the requirements phase, what problems did you encounter when using BPMN to model in the requirements phase?
+
+F: The nodes are not very clear. In some places, such as branches, there are solid lines and dashed lines. I don't know when to use them.
+
+A: Is there a unified working environment in this team?
+
+F: Yes
+
+A: Have you monitored a state of the software running?
+
+F: Well, because we are doing testing,
+
+A: After the team discovers the problem and shares it, can it effectively prevent it from happening again next time?
+
+F: Yes
+
+A: In the production environment and development environment, can the project run normally?
+
+F: Can operate normally
+
+A: Is the production environment similar to the development environment?
+
+F: similar
+
+A: What do you know about this continuous integration and continuous deployment?
+
+F: I think continuous deployment should be regarded as updating every time and deploying once. Continuous integration means integrating this project every time.
+
+A: How often is the project built?
+
+F: very frequently
+
+A: How often does the project deploy?
+
+F: very frequently
+
+A: How many times has this BPM version iterated so far?
+
+F: 5 times, including three rounds of testing for C, and then twice for Java.
+
+A: Because this BPMN has changed. How many times has the project been built?
+
+F: twice
+
+A: How many times did BPMN change just because of requirements, and then change the code phase?
+
+F: This one is more
+
+A: Because of changes in demand, the environment has also changed?
+
+F: Yes, before linux, then windows
+ 
+A: How many times did BPMN fail to deploy normally?
+
+F: Four or five times
+
+A: Do you think you are in these stages. Which one do you think is more important?
+
+F: Demand
+
+A: Requirements and construction?
+
+F: Demand
+
+A: Requirements and codes?
+
+F: Demand
+
+A: Needs and environment?
+
+F: Demand
+
+A: Requirements and deployment?
+
+F: Demand
+
+A: What do you think of version control and build?
+
+F: version control
+
+A: Version control and code?
+
+F: version control
+
+A: Version control and environment?
+
+F: Environment
+
+A: Version control and deployment phase?
+
+F: version control
+
+A: Which one do you think is more important between the construction phase and the code phase?
+
+F: code
+
+A: Build and environment?
+
+F: Environment
+
+A: Build and deploy?
+
+F: Build.
+
+A: Then which one do you think is more important between the code phase and the environment phase?
+
+F: Environment
+
+A: Code and deployment phase?
+
+F: code
+
+A: What do you think of the environment and deployment stage?
+
+F: Environment

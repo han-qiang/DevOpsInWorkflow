@@ -1,0 +1,275 @@
+﻿haide: A questionnaire interview question, that is, in the development process or in the DevOps process, which stage do you think is more important or which stage does he have an interview topic. Then, according to this questionnaire, it’s easy to conduct an interview. It can be more casual.
+
+haide: is the name of the participant.
+
+xingnan: I say my name directly? Li Xingnan
+
+haide: The position is.
+
+xingnan: student ah ha ha,
+
+haide: Well, then your experience
+
+xingnan: How long has it been since joining this team, half a year?
+
+haide: What is the name of your department? Is it a computer school, a graduate school, or a research institute?
+
+xingnan: School of Computer Science
+
+haide: Then in what year did you join this department?
+
+xingnan: Joining the computer department is 2020
+
+haide: What year did you join this school and academy?
+
+xingnan: 2017 2017
+
+haide: What made you contact DevOps? Let's go for a simple interview.
+
+xingnan: I feel no contact
+
+haide: Uh, how does your team’s adoption of DevOps help? In fact, you can think of DevOps as a development process. There are developers, testers, operation and maintenance personnel. A process that makes the development easier. It is actually not a technology, it is a culture that is more conducive to development and a collaborative culture between teams.
+
+xingnan: There must be, how can I say it, if there is this kind of scientific method, then it will be easier and more efficient, that is, the communication meeting between the teams.
+
+haide: Do you support this DevOps culture or practice?
+
+xingnan: support
+
+haide: Can you tell us whether this culture of your current team is conducive to the implementation of DevOps?
+
+xingnan: I think it's beneficial, because these people in the team, although they all have various personalities, can cooperate with each other through DevOps.
+
+haide: Then your current team size is
+
+xingnan: team size of five people
+
+haide: What are you mainly responsible for in this team?
+
+xingnan: In project development, responsible for the implementation, so specifically it is equivalent to the role of a developer.
+
+haide: So has there been an iteration of this project during the development process.
+
+xingnan: Yes, according to demand or some updates of those versions of those technologies that need to be used.
+
+haide: So how long does it take to iterate?
+
+xingnan: You need to look at the scale of the project, for small projects. It should be one day or two days for big projects. The current team should be about one or two days a day.
+
+haide: So what development method does your team use for development?
+
+xingnan: object-oriented
+
+haide: What kind of software did you develop?
+
+xingnan: e-commerce
+
+haide: So has your team received some learning and training in the development of this project?
+
+xingnan: I have accepted a little bit.
+
+haide: So how long do you discuss between this team?
+
+xingnan: Once a week.
+
+haide: Is it helpful to the implementation or progress of the project?
+
+xingnan: Yes
+
+haide: So is there any expert guidance and help in this team to clean up some of the problems encountered during the development process?
+
+xingnan: Yes.
+
+haide: What do you think are the stages of the software life cycle?
+
+xingnan: The software life cycle first needs analysis. After the needs analysis is completed, it needs outline design, then detailed design, and then write code to make this thing, and then it is online testing.
+
+haide: Which stage do you think has a greater impact on this project, and which stage do you think is more important?
+
+xingnan: demand analysis stage.
+
+haide: What problems did you encounter in this development?
+
+xingnan: I have definitely encountered technical problems. For example, if you encounter certain technologies, you don't know how to use them, and then you need to learn about it.
+
+haide: During the development of the project of the team, have you checked the requirements of this project?
+
+xingnan: Definitely. It must have been done because it has to be done according to the needs, and then after it has been done, it must be checked whether it can achieve that demand.
+
+haide: In other words, have you checked whether there are any defects in the requirements analysis stage?
+
+xingnan: Just analyze it and see if there is a problem with our logic or the customer has a problem with logic.
+
+haide: What do you know about this architecture?
+
+xingnan: The framework should have only been used and not deeply understood.
+
+haide: So do you know about version control?
+
+xingnan: Version control is not well understood yet.
+
+haide: Well, you can talk about your own thoughts
+
+xingnan: I think the version update should be. It should be the update of those technologies that are needed, or more demand or more functions.
+
+haide: Every iteration is equivalent to a version update, right?
+
+xingnan: Yes
+
+haide: Do you think version control helps the development of this system?
+
+xingnan: I think there should be version control, but it doesn't feel particularly influential.
+
+haide: What problems did you encounter in BPMN in the requirements phase?
+
+xingnan: When modeling the requirements phase. How to use this BPMN diagram to draw some processes, sometimes there will be some ambiguities. This leads to the logic of the process. It's not very clear, a bit vague, and then we need to discuss it and make sure.
+
+haide: Does your team have a unified environment for development?
+
+xingnan: A unified environment?
+
+haide: Is there a unified development environment for the project development environment?
+
+xingnan: yes
+
+haide: Have you ever monitored the running status of your team’s project running software? Have you ever performed such an operation?
+
+xingnan: Well, does it count if you look at the log?
+
+haide: yes
+
+xingnan: That is sometimes I will look at some logs to see if it is running normally.
+
+haide: So when you encounter some problems in the development of your team, the internal communication between the teams is to solve them, so it will effectively prevent them from happening again?
+
+xingnan said: Yes
+
+haide: Do you think your development environment and the project in this production environment can run normally?
+
+xingnan said: Yes
+
+haide: Is the production environment similar to the development environment?
+
+xingnan: similar.
+
+haide: What do you know about this continuous integration and continuous part?
+
+xingnan: I should feel that I don't know much
+
+haide: How often is the project built?
+
+xingnan: I think the frequency of project construction is quite high, because it is often necessary to test some functions to see if it is normal.
+
+haide: How often do you deploy?
+
+xingnan: The frequency of deployment is relatively small,
+
+haide: From the beginning of the project to the current version of BPMN.
+
+xingnan: 7 times.
+
+haide: Changes in our needs have led to the number of project builds. If you can’t remember, just say the name of the option.
+
+xingnan: It should be three to six times.
+
+haide: Because of the impact of this requirement BPMN, how many times did this code phase change?
+
+xingnan: It means to modify the code more than 6 times.
+
+haide: Does the project development cause environmental changes due to requirements?
+
+xingnan: there should be
+
+Haide, then, is there any number of BPM changes that cause normal deployment.
+
+xingnan: There should be no
+
+haide: Can you talk about your understanding of the requirements phase?
+
+xingnan: The most demanding stage is the kind, questionnaire survey, and communication with customers. Mainly questionnaire
+
+haide: So what do you know about version control?
+
+xingnan: What does version control help to record some information about the current version? If there is an error in the development of the current version, you can call the previous version. You can also review some of the problems that occurred in the previous version, which is the role of version control.
+
+haide: So what do you know about the construction phase?
+
+xingnan: There is not much understanding in the construction phase, it is a compilation process
+
+haide: What is your understanding of the code phase?
+
+xingnan: The code phase is to use code to implement functions, then minimize bugs, and then implement the functions.
+
+haide: Environmental stage?
+
+xingnan: Everyone has a unified production environment, and a unified environment in team development is helpful for development among developers
+
+haide: Understanding of the deployment phase?
+
+xingnan: Deployment is the launch and deployment phase of the project. The deployment phase also requires the team to do it together.
+
+haide: Do you think you are in these stages. Which one do you think is more important?
+
+xingnan: demand
+
+haide: Needs and builds?
+
+xingnan: demand
+
+haide: Requirements and code?
+
+xingnan: still demand,
+
+haide: Needs and environment?
+
+xingnan: Which is more important, demand or environment, I think both are important
+
+haide: requirements and deployment?
+
+xingnan: demand and deployment are equally important to me
+
+haide: What do you think of version control and build?
+
+xingnan: version control
+
+haide: version control and code?
+
+xingnan: version control
+
+haide: Version control and environment?
+
+xingnan: environmental stage
+
+haide: version control and deployment phase?
+
+xingnan: I think the deployment stage.
+
+haide: Which one do you think is more important between the construction phase and the code phase?
+
+xingnan: This should be the code stage
+
+haide: Build and environment?
+
+xingnan: environment.
+
+haide: Build and deploy?
+
+xingnan: deployment.
+
+haide: Then which one do you think is more important between the code phase and the environment phase?
+
+xingnan: environment
+
+haide: code and deployment phase?
+
+xingnan: The deployment phase is important
+
+haide: What do you think of the environment and deployment phase?
+
+xingnan: environmental stage.
+
+haide: What do you know about the deployment phase?
+
+xingnan: The deployment phase should be to make the project run in the real implementation environment.
+
+haide: Yes, OK.

@@ -1,0 +1,235 @@
+﻿A: What is the name of the participant?
+
+E: Ding Yutang
+
+A: What is the position?
+
+E: Undergraduate
+
+A: So what is your DevOps experience?
+
+E: 0.5 years
+
+A: What is the name of your department?
+
+E: School of Computer Science
+
+A: Then in what year did you join this department?
+
+E: September 2017
+
+A: So why did you make you contact this DevOps?
+
+E: Doing this graduation project under the guidance of Teacher Han may involve this knowledge
+
+A: How will it be helpful to adopt devops in the development of this team?
+
+E: I don’t know much, it can help your team to develop the project better
+
+A: Do you support the culture and practice of this devops?
+
+E: Support
+
+A: Is the current team culture conducive to devops implementation?
+
+E: It's beneficial. As long as we discuss with each other, contact with each other will better promote the implementation of this devops, and learn from each other's strengths.
+
+A: The size of the team
+
+E: 5-7 people
+
+A: What role are you responsible for in devops?
+
+E: Development/Test
+
+A: Are there iterations in the development process
+
+E: Yes
+
+A: How long does each iteration take?
+
+E: One week
+
+A: What development method did the team use in the development of this project?
+
+E: Object-oriented
+
+A: What kind of software is the one developed by the team?
+
+E: Information Management System
+
+A: Has the team received some training or learning in project development?
+
+E: Both have
+
+A: How long does it take for a team to communicate?
+
+E: I will communicate every day
+
+A: Is communication helpful to the improvement of the project?
+
+E: The role of mutual promotion and mutual promotion
+
+A: Is there an expert to guide and clean up a problem encountered in the project development process?
+
+E:. Teacher Xiang, graduate students and seniors will give us some guidance.
+
+A: Which stage in the devops or software life cycle do you think has the greatest impact on this project?
+
+E: The code stage will be more important
+
+A: What problems did you encounter in project development?
+
+E: There may be some environmental debugging problems, and there are bugs in this code
+
+A: Have you checked the requirements of this project?
+
+E: The project is to have a rough understanding of the demand through the questionnaire form, and then to test whether the demand is feasible.
+
+A; Do you think this good architecture will help the project?
+
+E: A good structure is very important for this project
+
+A: Is the version control phase conducive to the development of the system?
+
+E: It must be helpful to the development of the system, and each version update will make the system more perfect
+
+A: What problems did you encounter in the BPMN modeling in the requirements phase?
+
+E: At the very beginning, it was the problem of drawing, the connection of two relations, two judgment nodes cannot appear between the judgment nodes at the same time, and they are connected together at the same time, that is, a judgment must have a relationship with an entity.
+
+A: Does the team have a unified working environment?
+
+E: Hmm
+
+A: Have you monitored a status of the operation of your team's project?
+
+E: Well, the implementation status, and then we will learn from each other to check the running status of each of their software
+
+A: There have been some problems in your team. After you get some sharing, this kind of similar problem will happen again next time?
+
+E: It happens occasionally, but it will be solved soon, because after all, it is a problem that has already occurred.
+
+A: Can the development environment and production environment work normally in this project?
+
+E: Yes
+
+A: Is your team’s development environment and production environment similar?
+
+E: Basically, they are roughly consistent
+
+A: What do you know about this continuous integration and continuous deployment?
+
+E: I don't know much
+
+A: How often does the project build?
+
+E: It will be built every hour or even every ten minutes
+
+A: How often does the project deploy?
+
+E: May be less
+
+A:. This project has been iterated several times to the current BPMN
+
+E: Six times
+
+A; Because this BPMN has changed. How many times has the project been built?
+
+E; about two or three times
+
+A: How many times did BPMN change just because of requirements, and then change the code phase?
+
+E: Two to three times
+
+A: Because of changes in demand, the environment has also changed?
+
+E: No no
+
+A: How many times did BPMN fail to deploy normally?
+
+E: Haven't encountered it yet
+
+A: Do you think you are in these stages. Which one do you think is more important?
+
+E: Demand
+
+A: Requirements and construction?
+
+E: Demand
+
+A: Requirements and codes?
+
+E: Code,
+
+A: Needs and environment?
+
+E: Demand
+
+A: Requirements and deployment?
+
+E: Demand
+
+A: What do you think of version control and build?
+
+E: version control
+
+A: Version control and code?
+
+E: code
+
+A: Version control and environment?
+
+E: version control
+
+A: Version control and deployment phase?
+
+E: version control
+
+A: Which one do you think is more important between the construction phase and the code phase?
+
+E: This should be the code stage
+
+A: Build and environment?
+
+E: Build
+
+A: Build and deploy?
+
+E: Build
+
+A: Then which one do you think is more important between the code phase and the environment phase?
+
+E: code
+
+A: Code and deployment phase?
+
+E: code
+
+A: What do you think of the environment and deployment stage?
+
+E: Environmental stage.
+
+A: Can you talk about the meaning of these six stages and explain the needs
+
+E: The demand stage is an analysis of the requirements of the users and the requirements of Party A, right? Some developments for the project.
+
+A: What about the version control phase?
+
+E: Just keep updating that version,
+
+A: The construction phase?
+
+E: Carry out some tests during project development.
+
+A: The code stage?
+
+E: Coding, this is the development of the project
+
+A: Environmental stage?
+
+E: Uniform environment
+
+A: The deployment phase?
+
+E: The deployment phase is to deploy the already developed project

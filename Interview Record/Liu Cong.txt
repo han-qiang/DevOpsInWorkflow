@@ -1,0 +1,219 @@
+﻿A: What is the name of the participant?
+
+D: Liu Cong
+
+A: What is the position?
+
+D: Graduate students.
+
+A: So what is your DevOps experience?
+
+D: 1 year-3 years
+
+A: What is the name of your department?
+
+D: Graduate School
+
+A: Then in what year did you join this department?
+
+D: September 2018
+
+A: So why did you make you contact this DevOps?
+
+D: Development needs
+
+A: Will it help to adopt devops in your team?
+
+D: Better to develop, iteratively update and maintain
+
+A: Do you support DevOps culture and practice support?
+
+D: Yes
+
+A: Can you tell us whether the current team culture is conducive to devops?
+
+D: good for
+
+A: What is the current size of your team?
+
+D: Eight people
+
+A: What is your role in the team?
+
+D: Development
+
+A: Have you iterated during the development process?
+
+D: Yes
+
+A: Approximately how long does the iteration take? How long does it take to iterate a version?
+
+D: Three or five days
+
+A: What kind of development method does your team use?
+
+D: Object-oriented
+
+A; What kind of software does your team develop?
+
+D: Management system, as well as analysis tools.
+
+A; Has the team been exposed to project development learning or training?
+
+D:I have been exposed to learning but not training.
+
+A: When discussing with the team, is it helpful to improve the project?
+
+D: Yes.
+
+A: Are there any experts to help guide and clean up the problems encountered in the project development process?
+
+D: Yes.
+
+A: Which stage in the devops or software life cycle do you think has a greater impact on the project?
+
+D: Environmental stage.
+
+A: Have you encountered any problems in the development of this project?
+
+D: The problems encountered in development are all problems, such as different development environments and different development capabilities, which will eventually lead to more troublesome development.
+
+A: Have you analyzed or tested the needs of this project when you developed the project?
+
+D; Yes.
+
+A: Do you think that a good architecture is of great help to the project?
+
+D: Mainly depends on the developer's ability
+
+A: Do you know anything about version control?
+
+D: How does it proceed during the iteration process is to update the last defect
+
+A: Do you think this version control is beneficial to the development of this project?
+
+D: It's good.
+
+A: What problems have you encountered in BPMN modeling in the requirements phase?
+
+D: No no
+
+A: Does your current team have a unified working environment?
+
+D: Yes
+
+A: Have you monitored the running status of the project during the development of the project?
+
+D: Yes.
+
+A: If the team has a problem and shares it, will it prevent the problem from happening again?
+
+D: It may happen.
+
+A: Can the project in the production environment and development environment run normally?
+
+D: Yes
+
+A: Is the production environment similar to this development environment?
+
+D: Yes
+
+A: What do you know about continuous integration and continuous deployment?
+
+D; no
+
+A: How often was the previous project built?
+
+D: Once a few minutes, once a few minutes
+
+A: How often does the project deploy?
+
+D: Once in a few minutes
+
+A: How many versions of BPMN has been iterated since the development of the project?
+
+D: One
+
+A: How many times have BPMN modeling related projects been constructed?
+
+D: Once
+
+A: How many times did the code change because of changes in BPMN?
+
+D: Zero
+
+A: Has the environment changed due to changes in requirements during project development?
+
+D: Yes
+
+A: Have you ever failed to deploy normally due to changes in BPMN?
+
+D: No
+
+A: There are six stages in the software life cycle or DevOps process
+
+D: The environmental stage is the most important
+
+A: Can you understand the meaning between their various stages?
+
+D: For example, the demand stage is the demand specification. According to the positioning of the product, the development demand is proposed. Version control is supposed to be that after the new version comes out, the old version will be unavailable. Keep users using the latest version. This version is optimized on the basis of the previous version. As long as the code changes during the build phase, build. The code phase is equivalent to development. The environment phase should come to this phase immediately after the end of the requirements phase. It is important to have a unified environment in the team, and there are fewer deployment phases.
+
+A: Do you think you are in these stages. Which one do you think is more important?
+
+D: Demand
+
+A: Requirements and construction?
+
+D: Demand
+
+A: Requirements and codes?
+
+D: Demand,
+
+A: Needs and environment?
+
+D: Environment
+
+A: Requirements and deployment?
+
+D: Demand
+
+A: What do you think of version control and build?
+
+D: build
+
+A: Version control and code?
+
+D: code
+
+A: Version control and environment?
+
+D: Environmental stage
+
+A: Version control and deployment phase?
+
+D: deployment
+
+A: Which one do you think is more important between the construction phase and the code phase?
+
+D: This should be the code stage
+
+A: Build and environment?
+
+D: Environment.
+
+A: Build and deploy?
+
+D: Build.
+
+A: Then which one do you think is more important between the code phase and the environment phase?
+
+D: code
+
+A: Code and deployment phase?
+
+D: code
+
+A: What do you think of the environment and deployment stage?
+
+C: Environmental stage.
